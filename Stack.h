@@ -1,6 +1,5 @@
 //
 //  Stack.h
-//  slm243_assignment1
 //
 //  Created by Sabrina Ma on 9/24/16.
 //  Copyright © 2016 Sabrina Ma. All rights reserved.
